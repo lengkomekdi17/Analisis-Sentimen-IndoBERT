@@ -1,2 +1,3 @@
 # Analisis-Sentimen-IndoBERT
-Projek analisis sentimen menggunakan indoBERT yg di fine tune.
+Projek analisis sentimen universitas menggunakan indoBERT yg di fine tune.
+
